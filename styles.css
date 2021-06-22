@@ -11,6 +11,8 @@ body {
 .grid {
     display: grid;
     grid-template-columns: 320px 200px;
+    margin: auto;
+    width: max-content;
 }
 
 .right-column {
