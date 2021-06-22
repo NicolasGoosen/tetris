@@ -3,6 +3,11 @@
   font-family: 'Press Start 2P', cursive;
 }
 
+body {
+    background-color: black;
+    color: white;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 320px 200px;

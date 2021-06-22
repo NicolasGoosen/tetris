@@ -1,6 +1,6 @@
 ### todo
 
-- [ ] add keys explination
+- [ ] add keys explanation
 - [ ] fix button-in-focus error when pressing spacebar
 
 `constants.js` is where we put the configurations and rules of the game.
